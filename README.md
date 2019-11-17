@@ -9,5 +9,3 @@
 ![Market](/Screenshots/MarketPlace.PNG) | ![Notifications](/Screenshots/Notifications.PNG)
 |||
 ![QR](/Screenshots/QRScanner.PNG) | ![Feedback](/Screenshots/Feedback.PNG)
-|||
-
