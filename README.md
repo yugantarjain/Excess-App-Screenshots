@@ -3,5 +3,7 @@
 |||
 -|-
 ![Home](/Screenshots/Home.PNG) | ![Maps](/Screenshots/Maps.PNG)
-![Market](/Screenshots/MarketPlace.PNG) | ![Profile](/Screenshots/Profile.PNG)
-![Busness](/Screenshots/BusinessOutlet.PNG) | ![QR](/Screenshots/QRScanner.PNG)
+![Busness](/Screenshots/BusinessOutlet.PNG) | ![Profile](/Screenshots/Profile.PNG)
+![Market](/Screenshots/MarketPlace.PNG) | ![QR](/Screenshots/QRScanner.PNG)
+![Notifications](/Screenshots/Notifications.PNG) | ![Feedback](/Screenshots/Feedback.PNG)
+
