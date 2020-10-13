@@ -2,10 +2,10 @@
 
 |||
 -|-
-![Home](/ReadmeShots/Home.PNG) | ![Busness](/ReadmeShots/Business.PNG)
+![Home](/ReadmeShots/Home.png) | ![Busness](/ReadmeShots/Business.png)
 |||
-![Maps](/ReadmeShots/Map.PNG) | ![Profile](/ReadmeShots/Profile.PNG)
+![Maps](/ReadmeShots/Map.png) | ![Profile](/ReadmeShots/Profile.png)
 |||
-![Market](/ReadmeShots/Marketplace.PNG) | ![Notifications](/ReadmeShots/Notifications.PNG)
+![Market](/ReadmeShots/Marketplace.png) | ![Notifications](/ReadmeShots/Notifications.png)
 |||
-![HomeCat](/ReadmeShots/HomeCategory.PNG) | ![Feedback](/ReadmeShots/Feedback.PNG)
+![HomeCat](/ReadmeShots/HomeCategory.png) | ![Feedback](/ReadmeShots/Feedback.png)
